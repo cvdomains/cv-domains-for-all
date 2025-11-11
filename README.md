@@ -17,6 +17,7 @@ Developer Docs: https://developer.ola.cv
 ## .cv is Free for Everyone
 
 All **firstnamelastname.cv** domains are free to claim. Anyone can secure their identity in seconds and use it as a central, portable professional link across the internet.
+You can go to http://hello.cv/ and claim one
 
 ---
 
@@ -118,6 +119,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 ## Support
 
 support@ola.cv
+
+---
+
+## FAQS
+
+- **What's the difference between .cv, ola.cv, hello.cv, oppi.cv? Too many:** We get this a lot. .cv is the domain extension. ola.cv is the domain operator and manages relationships with partners and registrars. hello.cv is a partner with whom we've piloted the free firstnamelastname.cv domains for everyone - and more will be added to the list.
+- **Is .cv a cctld:** Yes just like .ai (Anguilla), .cv is a ccltd (Cabo Verde) that's been repurposed to serve a global purpose.
 
 ---
 
